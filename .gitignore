@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+env/
+
+# Campaign data and third-party agent dumps (not redistributed)
+corpus/
+recon/pubagents/
+recon/kernels/
+submissions/
+logs/
+data/
+*.tar.gz
+*.zip

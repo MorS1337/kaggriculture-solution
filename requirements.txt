@@ -1,0 +1,8 @@
+# Runtime for the final agent (main.py) is the Python standard library only.
+# The environment and the research tools need:
+kaggle-environments>=1.32.7
+numpy>=2.0
+torch>=2.4
+
+# Optional for replay/leaderboard tooling:
+# kaggle>=1.6
